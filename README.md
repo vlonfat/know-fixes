@@ -1,3 +1,4 @@
+[← Back to Profile](https://github.com/vlonfat)
 # 🔧 Known Fixes
 
 A collection of fixes for common issues I've encountered.
